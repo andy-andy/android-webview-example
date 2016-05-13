@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidWebViewExample</string>
+    <string name="url_hint">http://</string>
+    <string name="go">Go</string>
+</resources>
