@@ -5,7 +5,6 @@ Play audio on page finished or resume application, and pause audio on pause appl
 ## JavaScript Function Example ##
 
 ```
-#!javascript
 var audio;
 var playAudio = function() {
   audio.play();
