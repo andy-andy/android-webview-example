@@ -1,10 +1,10 @@
-# README #
+# Play audio on Android WebView
 
-Play audio on page finished or resume application, and pause audio on pause application, if target web page implements javascript function 'playAudio' and 'pauseAudio'.
+Play audio on page finished or resume application, and pause audio on pause application, if target web page implements javascript function `playAudio` and `pauseAudio`.
 
-## JavaScript Function Example ##
+## Server Side JavaScript Function Example
 
-```
+```javascript
 var audio;
 var playAudio = function() {
   audio.play();
